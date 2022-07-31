@@ -7,7 +7,7 @@
  
  Link do Coolab:
  
- [https:\\calvin-sentiment-analysis.herokuapp.com](https://colab.research.google.com/drive/1TkRJ7hylv99K3N4LzncOYOs2Q7XmftpU#scrollTo=w8ErdN8DfZcA)](https:\\calvin-sentiment-analysis.herokuapp.com)
+ [[https:\\calvin-sentiment-analysis.herokuapp.com](https://colab.research.google.com/drive/1TkRJ7hylv99K3N4LzncOYOs2Q7XmftpU#scrollTo=w8ErdN8DfZcA)](https://colab.research.google.com/drive/1TkRJ7hylv99K3N4LzncOYOs2Q7XmftpU#scrollTo=w8ErdN8DfZcA)]
  
  Link do modelo em produção utilizando o servidor do Heroku:
  
