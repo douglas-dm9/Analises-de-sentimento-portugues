@@ -11,4 +11,4 @@
  
  Link do modelo em produção utilizando o servidor do Heroku:
  
- [https:\\calvin-sentiment-analysis.herokuapp.com](https:\\calvin-sentiment-analysis.herokuapp.com)
+https:\\calvin-sentiment-analysis.herokuapp.com
